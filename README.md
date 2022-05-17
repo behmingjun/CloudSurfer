@@ -3,4 +3,4 @@ Hey guys! 😊 This is my attempt at creating CloudSurfer, a 2D game using C# as
 
 You can use your phone to acess this link to try out the game: http://cloudsurferv3.s3-website-us-east-1.amazonaws.com
 
-Disclaimer: the link might not work anymore
+Disclaimer: The link might not work anymore when you try it
